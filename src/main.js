@@ -1,2 +1,2 @@
 require("./main.css");
-console.log('Hello webpack');
+require("./index.html")
